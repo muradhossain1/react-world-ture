@@ -1,0 +1,10 @@
+.countries{
+    display: grid;
+    grid-template-columns: 3, 1fr;
+    gap: 10px;
+}
+.flags img{
+  width: 100px;
+  height: 100px;
+  gap: 10px;
+}
